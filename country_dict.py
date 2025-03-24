@@ -522,7 +522,7 @@ all_countries_alpha2 = {
     "al-emarat" : "AE",
     "frankreich" : "FR",
     "italien" : "IT",
-
+    
     "Åland" : "AX",
     "Amerikanisch-Samoa" : "AS",
     "Antigua/Barbuda" : "AG",
