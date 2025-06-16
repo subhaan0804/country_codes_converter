@@ -5,6 +5,7 @@ Albanien,AL
 Albania,AL
 Algerien,DZ
 Algeria,DZ
+American Samoa,AS
 Andorra,AD
 Angola,AO
 Anguilla,AI
@@ -44,6 +45,9 @@ Bouvetinsel,BV
 Bouvet Island,BV
 Brasilien,BR
 Brazil,BR
+British Antarctic Territory,AQ
+British Indian Ocean Territory,IO
+British Virgin Islands,VG
 Brit.Terr.Im Indischen Ozean,IO
 Brit.Terr.in the Indian Ocean,IO
 Brunei Darussalam,BN
@@ -54,6 +58,7 @@ Burundi,BI
 "Bonaire, Sint Eustatius and Saba",BQ
 Chile,CL
 China,CN
+Cocos (Keeling) Island,CC
 Cook-Inseln Neuseel.Verwaltung,CK
 Cook Islands New Zealand.administration,CK
 Costa Rica,CR
@@ -69,12 +74,14 @@ Dschibuti,DJ
 Djibouti,DJ
 Dänemark,DK
 Denmark,DK
+East Timor,TL
 Ecuador,EC
 El Salvador,SV
 Eritrea,ER
 Estland,EE
 Estonia,EE
 Eswatini,SZ
+Faroe Islands,FO
 Faeroeer Inseln Dän.Verwaltung,FO
 Faeroe Islands Danish administration,FO
 Falklandinseln (Malvinen),FK
@@ -91,6 +98,7 @@ Französisch Guayana,GF
 French Guiana,GF
 Französisch Polynesien,PF
 French Polynesia,PF
+French Southern and Antarctic Territories,TF
 Gabun,GA
 Gabon,GA
 Gambia,GM
@@ -98,6 +106,7 @@ Georgien,GE
 Georgia,GE
 Ghana,GH
 Gibraltar,GI
+Greenland,GL
 Grenada,GD
 Griechenland,GR
 Greece,GR
@@ -116,6 +125,7 @@ Guinea,GN
 Guinea-Bissau,GW
 Guyana,GY
 Haiti,HT
+Heard and McDonald Islands,HM
 Heard und Mc Donald Inseln (unter Austr.Verw.),HM
 Heard and Mc Donald Islands (under Austr. administration),HM
 Honduras,HN
@@ -148,6 +158,7 @@ Jungfern-Inseln (Britisch),VG
 Virgin Islands (British),VG
 Jungfern-Inseln (USA),VI
 Virgin Islands (USA),VI
+U.S. Virgin Islands,VI
 Kaimaninseln,KY
 Cayman Islands,KY
 Kambodscha,KH
@@ -196,6 +207,7 @@ Litauen,LT
 Lithuania,LT
 Luxemburg,LU
 Luxembourg,LU
+Macau,MO
 Macao,MO
 Madagaskar,MG
 Madagascar,MG
@@ -317,9 +329,11 @@ Spain,ES
 Spitzb. und Jan Mayen Insel (Norw.Verw.),SJ
 Spitzb. and Jan Mayen Island (Norw.Verw.),SJ
 Sri Lanka,LK
+Sint Maarten,SX
 St. Martin,SX
 St. Vincent und die Grenadinen,VC
 St. Vincent and the Grenadines,VC
+"Saint Helena, Ascension and Tristan da Cunha",SH
 St.Helena,SH
 St.Kitts und Nevis,KN
 St.Kitts and Nevis,KN
@@ -364,7 +378,7 @@ Turkey,TR
 USA - Sonstige Kleine Inseln,UM
 USA - Other Small Islands,UM
 USA - Vereinigte Staaten,US
-USA - United States,US
+United States,US
 Uganda,UG
 Ukraine,UA
 Ungarn,HU
@@ -559,6 +573,7 @@ Tokelau,TK
 Tschechoslowakei,CZ
 Tunisien,TN
 United States Minor Islands,UM
+United States Minor Outlying Islands,UM
 USA,US
 Vatikanstadt,VA
 Wallis/Futuna,WF
