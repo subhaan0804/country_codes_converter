@@ -35,6 +35,7 @@ def get_best_match(matches, search_term):
     Returns:
         tuple: Single (country_name, country_code) that is most relevant
     """
+    print(matches)
     if not matches:
         return None
         
@@ -117,7 +118,7 @@ def find_country_code(search_term, country_dict):
             ratio = get_sequence_ratio(search_term, country_lower)
 
             # Adjust this threshold as needed (according to your strictness)
-            if ratio > 0.82:  
+            if ratio > 0.74:  
                 matches.append((country_name, code))
     
     best_match = get_best_match(matches, search_term)
